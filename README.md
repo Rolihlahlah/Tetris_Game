@@ -1,8 +1,6 @@
 <h1>Welcome to My Tetris Game</h1>
 
-<h2>Live Link</h2>
-https://rolihlahlah.github.io/Tetris_Game/
-<br>
+<h2>Live Link</h2>     https://rolihlahlah.github.io/Tetris_Game/
 
 <p>My Tetris is a classic tile-matching puzzle video game, where the player has to arrange falling tetrominoes to form a complete row without gaps. This project is a demonstration of JavaScript skills, and it only uses pure JavaScript without any libraries except Math.</p>
 
